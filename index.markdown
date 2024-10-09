@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+Witaj na mojej stronie!
+
